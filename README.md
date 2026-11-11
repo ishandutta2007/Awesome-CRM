@@ -67,6 +67,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Close](https://www.close.com/)** | Inside-sales oriented CRM with powerful calling, email sequencing, SMS, and communication tools designed for high-velocity sales teams. | Starts at $49/user/mo | None | ~$30M |
 | **[Nutshell](https://www.nutshell.com/)** | Simple, all-in-one CRM for small businesses with pipeline management, email marketing, and reporting in a user-friendly package. | Starts at $16/user/mo | None | ~$15M |
 | **[Capsule CRM](https://capsulecrm.com/)** | Clean and intuitive CRM focused on contact management, pipeline tracking, and task organization for small teams and professionals. | Starts at $18/user/mo | Up to 2 users, 250 contacts | ~$10M |
+| **[Genaya](https://genaya.com/)** | AI operations platform for service businesses with CRM and leads, built-in calling and texting, an AI phone receptionist, scheduling, estimates, invoices, and email and SMS campaigns. | Starts at $99/mo (1 user) | None (14-day free trial) | Early-stage, private |
 
 
 
